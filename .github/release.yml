@@ -10,11 +10,11 @@ changelog:
     - title: Breaking Changes 🛠
       labels:
         - Semver-Major
-        - breaking-change
+        - feature-productivity
     - title: Exciting New Features 🎉
       labels:
         - Semver-Minor
-        - profile-feature
+        - feature-profile
     - title: Other Changes
       labels:
         - "*"
