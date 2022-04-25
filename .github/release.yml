@@ -14,7 +14,7 @@ changelog:
     - title: Exciting New Features 🎉
       labels:
         - Semver-Minor
-        - enhancement
+        - profile-feature
     - title: Other Changes
       labels:
         - "*"
