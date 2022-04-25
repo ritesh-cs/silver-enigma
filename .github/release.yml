@@ -2,14 +2,15 @@
 
 changelog:
   categories:
-    - title: Breaking Changes 🛠
+    - title: Profile 🛠
       labels:
-        - Semver-Major
-        - a
-    - title: Exciting New Features 🎉
+        - feature-profile
+    - title: Jobs 🎉
       labels:
-        - Semver-Minor
-        - b
+        - feature-jobs
+    - title: Performance 🏋🏼‍
+      labels:
+        - feature-performance 
     - title: Other Changes
       labels:
         - "*"
