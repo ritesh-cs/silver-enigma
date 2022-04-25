@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: User Story
+about: As a user I would like to 
 title: ''
 labels: ''
 assignees: ''
